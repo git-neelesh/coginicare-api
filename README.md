@@ -7,3 +7,6 @@
 `mvn clean install`
 
 ![image](https://github.com/git-neelesh/coginicare-api/assets/1026717/fcac9e30-1aa7-44d7-a9e4-3ad70ba07d16)
+
+# TODO
+    # Need to enabled cors
