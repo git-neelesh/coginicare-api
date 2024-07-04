@@ -1,4 +1,4 @@
-package com.cognicare.api_gateway;
+package com.cognicare.api.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
